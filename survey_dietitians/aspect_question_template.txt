@@ -1,0 +1,12 @@
+[[Question:MC]]
+[[ID:{mc_question_id}]]
+<b>{aspect_question}</b><br/>
+[[Choices]]
+Response A
+Response B
+[[Question:TextEntry]]
+[[ID:{te_question_id}]]
+Please provide a breif explanation for your ranking:
+<br/>
+
+<br/>

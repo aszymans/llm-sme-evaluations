@@ -1,0 +1,17 @@
+You are {sme_title}.You will be given an instruction and two different outputs. Your job is to determine which output is more aligned with the instruction.
+
+Instruction:
+{instruction}
+
+Output A:
+{output_a}
+
+Output B:
+{output_b}
+
+Aspect Question:
+{aspect_question}
+
+Which output is more aligned with the instruction with respect to the aspect question?
+
+Output A or Output B?

@@ -1,0 +1,65 @@
+[[Block: Pre-Interview Survey]]
+
+[[Question:DB]]
+[[ID:PreInterviewText]]
+<b>Before we proceed with the main survey, we would like to ask you a few questions about your background and experience.</b>
+
+[[Question:MC:SingleAnswer]]
+[[ID:PreQuestions1]]
+What is your highest level of education in nutrition or dietetics?
+[[Choices]]
+Associate's Degree
+Bachelor's Degree
+Master's Degree
+Doctorate (Ph.D., Ed.D., etc.)
+Professional Doctorate (e.g., DNP, MD in nutritional sciences, etc.)
+Postdoctoral Studies
+
+[[Question:TE]]
+[[ID:PreQuestions2]]
+How many years of experience do you have in the field of nutrition or dietetics?
+
+[[Question:MC:MultipleAnswer]]
+[[ID:PreQuestions3]]
+What is your area of specialization as a registered dietitian? (Select as many as applicable)
+[[Choices]]
+Clinical
+Community & Public Health
+Consulting—Private Practice
+Food/Nutrition Business Industry
+Foodservice
+Research & Education
+Sports or Wellness Nutrition
+
+[[Question:MC:SingleAnswer]]
+[[ID:PreQuestions4]]
+Where do you work as a RD?
+[[Choices]]
+School
+Hospital/Medical Practice
+Nursing home
+Community Health Program
+Fitness center
+Food Industry
+
+[[Question:MC:SingleAnswer]]
+[[ID:PreQuestions5]]
+Have you ever utilized artificial intelligence tools in your practice or research related to nutrition?
+[[Choices]]
+Yes
+No
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:PreQuestions6]]
+How would you rate your familiarity with artificial intelligence and technology in the context of food and nutrition analysis?<br/>
+1 - Not Familiar
+<br/>
+5 - Very Familiar
+[[Choices]]
+1 
+2
+3
+4
+5
+
+

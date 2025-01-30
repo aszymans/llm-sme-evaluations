@@ -1,0 +1,39 @@
+[[Block]]
+
+[[Question:DB]]
+[[ID:{instruction_id}]]
+Consider the prompt instruction.  Then review the two responses below. Place your vote by answering the set of questions following the responses.
+
+<br/>
+<br/>
+
+<p style="font-size:24px;">
+  <b>Prompt Instruction:</b>
+  <br/><br/>
+  <span style="font-size:20px;"><b>{instruction}</b></span>
+</p>
+
+<br/>------------------------------------------------------------------------------<br/>
+
+<br/>
+
+<p><b style="font-size:24px; color:#143865;">Response A:</b></p>
+<br/>
+<div style="background-color:#f8f9fa; padding:20px; border:1px solid #edf2f9;">{response_1}</div>
+
+<br/>------------------------------------------------------------------------------<br/>
+
+<br/>
+
+<p><b style="font-size:24px; color:#143865;">Response B:</b></p>
+<br/>
+<div style="background-color:#f8f9fa; padding:20px; border:1px solid #edf2f9;">{response_2}</div>
+
+<br/>------------------------------------------------------------------------------<br/>
+
+<br/>
+
+<p><b style="font-size:24px; color:#143865;">Questions:</b></p>
+
+{aspect_questions}
+

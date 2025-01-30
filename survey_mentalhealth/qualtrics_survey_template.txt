@@ -1,0 +1,57 @@
+[[AdvancedFormat]]
+
+[[Block: Consent to Participate]]
+
+[[Question:DB]]
+[[ID:ConsentText]]
+<h2>Consent to Participate</h2>
+
+<br/>
+
+<h3>Purpose of Study</h2>
+<br/>
+<p>You are invited to participate in a research study that aims to investigate whether Large Language Models (LLMs) can serve as reliable evaluators for tasks requiring expert knowledge in clinical psychology. We are particularly interested in how the evaluations conducted by clinical psychologists compare to those performed by LLMs. Your expertise as a clinical psychologist will provide valuable insights into the accuracy and reliability of these models in performing tasks related to mental health and therapy.</p>
+
+<br/>
+
+<h3>If you agree to participate:</h3>
+<ul>
+    <li>You will be presented with psychology-related questions and will review two different LLM-generated responses for each question. You will vote on which output answers the question better. After each review, you will provide a 1-2 sentence explanation for your choice. <b>We estimate that this will take approximately 1 hour of your time.</b></li>
+    <li><b>You will be compensated $75 upon completion of this survey.</b></li>
+</ul>
+
+<p>Additionally, if more information is needed, you may be contacted to clarify or expand on your evaluations after the study.</p>
+
+<br/>
+
+<h3>Risks/Benefits/Confidentiality of Data</h3>
+<br/>
+<p>There are no known risks associated with this study. While there may not be direct benefits to you, your participation will contribute to our understanding of LLM-driven evaluations in clinical psychology, potentially leading to improved models and applications in the future.</p>
+<p>The potential risks in confidentiality are minimal and no greater than those experienced in everyday life. If there is identifying information disclosed in your responses, there may be a small risk of potential loss of confidentiality. However, we take steps to minimize that risk by anonymizing all collected data and securely storing it in a password-protected Google Drive folder accessible only to the research team. You may choose to skip any questions you prefer not to answer.</p>
+
+<br/>
+
+<h3>Participation or Withdrawal</h3>
+<br/>
+<p>You have the choice to participate in this study or opt out at any moment. There will be no penalties or effect on your relationship with the University of Notre Dame if you choose not to participate or decide to leave the study at any point.</p>
+
+<br/>
+
+<h3>Contacts</h3>
+<br/>
+<p>If you have any questions about the study, please contact Annalisa Szymanski (<a href="mailto:aszyman2@nd.edu">aszyman2@nd.edu</a>, 610-368-6055) or Noah Ziems (<a href="mailto:nziems2@nd.edu">nziems2@nd.edu</a>, 317-496-9524). This study has been reviewed by the University of Notre Dame Institutional Review Board and the study number is 24-07-8664.</p>
+
+<br/>
+
+<h3>Questions about your rights as a research participant</h3>
+<br/>
+
+<p>For questions about your rights or any dissatisfaction with any part of this study, you can contact, anonymously, the Notre Dame Research Compliance Office, at 574-631-1461 or by email at <a href="mailto:compliance@nd.edu">compliance@nd.edu</a>.</p>
+
+<br/>
+
+<h3>Participant Consent</h3>
+
+[[Question:TextEntry]]
+[[ID:ConsentSign]]
+By signing below, I confirm that I am 18 years old and a clinical psychologist, and agree to take part in this study.

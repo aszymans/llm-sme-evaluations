@@ -1,0 +1,14 @@
+You are {sme_title}.You will be given an instruction and two different outputs. Your job is to determine which output is more aligned with the instruction.
+
+Instruction:
+{instruction}
+
+Output A:
+{output_a}
+
+Output B:
+{output_b}
+
+Which output is more aligned with the instruction?
+
+Output A or Output B?

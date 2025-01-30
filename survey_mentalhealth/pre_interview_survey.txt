@@ -1,0 +1,64 @@
+[[Block: Pre-Interview Survey]]
+
+[[Question:DB]]
+[[ID:PreInterviewText]]
+<b>Before we proceed with the main survey, we would like to ask you a few questions about your background and experience.</b>
+
+[[Question:MC:SingleAnswer]]
+[[ID:PreQuestions1]]
+What is your highest level of education in psychology or therapy?
+[[Choices]]
+Associate's Degree
+Bachelor's Degree
+Master's Degree
+Doctorate (Ph.D., Ed.D., etc.)
+Professional Doctorate (e.g., DSW, DNP in clinical psychology, etc.)
+
+[[Question:TE]]
+[[ID:PreQuestions2]]
+How many years of experience do you have in the field of psychology or therapy?
+
+[[Question:MC:MultipleAnswer]]
+[[ID:PreQuestions3]]
+What is your area of specialization? (Select as many as applicable)
+[[Choices]]
+Clinical Psychology
+Community & Public Health
+Consulting—Private Practice
+Business/Industry Consultation
+School or Educational Psychology
+Research & Academia
+Sports or Wellness Psychology
+
+[[Question:MC:SingleAnswer]]
+[[ID:PreQuestions4]]
+Where do you work?
+[[Choices]]
+School
+Hospital/Medical Practice
+Mental Health Clinic
+Community Health Program
+Private Practice
+Rehabilitation Center
+
+[[Question:MC:SingleAnswer]]
+[[ID:PreQuestions5]]
+Have you ever utilized artificial intelligence tools in your practice or research related to psychology or therapy?
+[[Choices]]
+Yes
+No
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:PreQuestions6]]
+How would you rate your familiarity with artificial intelligence and technology in the context of psychology or therapy?<br/>
+1 - Not Familiar
+<br/>
+5 - Very Familiar
+[[Choices]]
+1 
+2
+3
+4
+5
+
+

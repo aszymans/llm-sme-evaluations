@@ -1,0 +1,18 @@
+[[Block: Tutorial]]
+
+[[Question:DB]]
+[[ID:Instructions]]
+
+<h3>Instructions</h3>
+<br/>
+<p>In this survey, you will be presented with a prompt instruction related to psychology or therapy and two different responses for each prompt. The responses are from two different large language models (LLMs).</p>
+
+<br/>
+
+<p>After examining each response, please rank which one is better in respect to the given question provided to you. Following each vote, you will be asked to provide a brief explanation for your choice. Please note that neither response option may be entirely accurate or fully meet your expectations. The LLM was provided a word limit, so consider which response more effectively highlights the key aspects that you would present to a client.</p>
+
+<br/>
+
+<p>We ask that you complete this process for 30 different prompts. You may leave and return to the survey at any time.</p>
+
+{questions}
